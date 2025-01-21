@@ -1,0 +1,4 @@
+.images {
+  background: url("../../../../public/home_image.jpg") no-repeat center;
+  object-fit: cover;
+}
